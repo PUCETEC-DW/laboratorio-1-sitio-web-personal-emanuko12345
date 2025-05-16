@@ -1,14 +1,21 @@
 {
-  
-  "homepage":"https://emanuko12345.github.io/laboratorio-1-sitio-web-personal-emanuko12345",
-  
-  "scripts": 
-  {
-"predeploy": "echo Predeloy",
-"deploy": "gh-pages -d src"
-
-},
+  
+  "homepage": "https://emanuko12345.github.io/laboratorio-1-sitio-web-personal-emanuko12345",
+  
+  "scripts": {
+  
+    
+  "predeploy": "echo Predeloy",
+  
+    
+  "deploy": "gh-pages -d src"
+  
+  },
+  
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+  
+    
+  "gh-pages": "^6.3.0"
+  
   }
 }
